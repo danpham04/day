@@ -65,7 +65,7 @@ function inrel() {
      b.style.display="none";
      z.style.display="none";
      c.innerHTML = "";
-     c.innerHTML = "Nhân ngày 20/11 chúc emmm iuuu sức khỏe, chúc em iu bình an, chúc công việc của em yêu càng ngày càng gặp nhiều may mắn <br> 8386 em iuuuu nhé😍";
+     c.innerHTML = "Nhân ngày 20/10 chúc emmm iuuu sức khỏe, chúc em iu bình an, chúc công việc của em yêu càng ngày càng gặp nhiều may mắn <br> 8386 em iuuuu nhé😍";
      y.style.display="none";
      x.style.display="inline";
      document.getElementById("audio3").play();
